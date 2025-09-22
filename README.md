@@ -84,4 +84,4 @@ Saya selalu terbuka untuk diskusi, kolaborasi, atau peluang kerja freelance.
 
 * **Email:** csresek@gmail.com
 
-* **LinkedIn:** [Tautan ke profil LinkedIn Anda (jika ada)]
+* **LinkedIn:** https://github.com/saputra-dotcom?tab=repositories
