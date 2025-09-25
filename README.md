@@ -1,7 +1,7 @@
 # Portofolio Analis Kuantitatif - Erwin Saputra
 
 ## 👋 Tentang Saya
-Halo! Saya Erwin, seorang analis kuantitatif junior dengan semangat besar untuk menerapkan analisis data dan *machine learning* dalam pengambilan keputusan di pasar keuangan, dengan fokus khusus pada saham-saham syariah.
+ Halo ! Saya Erwin, seorang analis kuantitatif junior dengan semangat besar untuk menerapkan analisis data dan *machine learning* dalam pengambilan keputusan di pasar keuangan, dengan fokus khusus pada saham-saham syariah.
 
 Perjalanan saya unik. Berawal dari seorang driver profesional di industri pertambangan, saya membangun disiplin dan etos kerja yang kuat. Dengan ambisi untuk terus belajar, saya mendedikasikan diri untuk menguasai ilmu data dan trading kuantitatif dari nol. Portofolio ini adalah bukti dari perjalanan, dedikasi, dan keahlian yang telah saya bangun.
 
