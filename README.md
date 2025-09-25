@@ -45,4 +45,4 @@ Berikut adalah tiga proyek utama yang menunjukkan alur kerja dan kemampuan anali
 Saya selalu terbuka untuk diskusi, kolaborasi, atau peluang kerja.
 
 - 📧 **Email:** csresek@gmail.com
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/NAMA-ANDA/](https://www.linkedin.com/in/NAMA-ANDA/) *(<-- GANTI DENGAN LINK LINKEDIN ANDA!)*
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/NAMA-ANDA/](https://www.linkedin.com/in/erwinsaputra-analyst) 
