@@ -1,6 +1,6 @@
 # Portofolio Analis Kuantitatif - Erwin Saputra
 
-👋 ## Tentang Saya
+## 👋 Tentang Saya
 Halo! Saya Erwin, seorang analis kuantitatif junior dengan semangat besar untuk menerapkan analisis data dan *machine learning* dalam pengambilan keputusan di pasar keuangan, dengan fokus khusus pada saham-saham syariah.
 
 Perjalanan saya unik. Berawal dari seorang driver profesional di industri pertambangan, saya membangun disiplin dan etos kerja yang kuat. Dengan ambisi untuk terus belajar, saya mendedikasikan diri untuk menguasai ilmu data dan trading kuantitatif dari nol. Portofolio ini adalah bukti dari perjalanan, dedikasi, dan keahlian yang telah saya bangun.
@@ -9,7 +9,7 @@ Saya percaya bahwa setiap keputusan investasi harus didukung oleh data dan anali
 
 ---
 
-💡 ## Keahlian
+## 💡 Keahlian
 
 - **Bahasa Pemrograman:** Python
 - **Analisis Data:** Pandas, NumPy
@@ -21,7 +21,7 @@ Saya percaya bahwa setiap keputusan investasi harus didukung oleh data dan anali
 
 ---
 
-📂 ## Proyek Portofolio
+## 📂 Proyek Portofolio
 Berikut adalah tiga proyek utama yang menunjukkan alur kerja dan kemampuan analisis saya dari awal hingga akhir.
 
 ### 1. Proyek Analisis Portofolio Saham Syariah
@@ -41,7 +41,7 @@ Berikut adalah tiga proyek utama yang menunjukkan alur kerja dan kemampuan anali
 
 ---
 
-📫 ## Hubungi Saya
+## 📫 Hubungi Saya
 Saya selalu terbuka untuk diskusi, kolaborasi, atau peluang kerja.
 
 - 📧 **Email:** csresek@gmail.com
